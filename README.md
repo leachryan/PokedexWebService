@@ -5,7 +5,7 @@ NOTE: This project is unfinished, with features planned but not implemented
 
 HOW TO USE:
 -This project works with the Pokedex Web Client, so this project must be run first
-1) Download the project
+1) Download the project and unzip
 2) Open the .sln file with Visual Studio
 3) Under Debug, click Start Without Debugging
 4) Minimize window. The service should be working. This can be seen by right clicking the IIS Express and seeing the project name under View Sites
